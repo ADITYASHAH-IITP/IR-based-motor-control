@@ -1,5 +1,5 @@
 # IR-based-motor-control
-## Control a DC Motor remotely using IR Remote
+## Control a DC Motor speed and direction remotely using IR Remote!
 ## <b>CKT-Diagram<br><br></b>
 ---
 
