@@ -22,9 +22,15 @@
 ![image](https://user-images.githubusercontent.com/37467941/149301525-c3c6b6c7-5cc0-4d42-8e75-9d34236a8a2b.png)
 
 ---
+## <b>Labels List<br><br></b>
+---
+
+![image](https://user-images.githubusercontent.com/37467941/149303720-11ddbba7-04f5-40c1-84a3-91565f4b0220.png)
+
+---
 ---  
 
- ⭐️ [Demonstration:](https://user-images.githubusercontent.com/37467941/149302324-ff634c59-0131-4a0e-865b-469059bbfff7.mp4)
+ ## ⭐️ [Demonstration:](https://cciitpatna-my.sharepoint.com/:v:/g/personal/aditya_2011mt02_iitp_ac_in/EZY4qPv8w31Dr7i8rw-YOdwBrcbU7uTkYr8ZT-lqiwwKAw?e=ZybEcj)
       <br><br>
       
 
