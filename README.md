@@ -1,5 +1,15 @@
 # IR-based-motor-control
 ## Control a DC Motor speed and direction remotely using IR Remote!
+
+
+
+https://user-images.githubusercontent.com/37467941/149308392-7a52ee49-41e9-4f8c-b5b6-99a72ed26d08.mp4
+
+
+
+
+
+
 ## <b>CKT-Diagram<br><br></b>
 ---
 
