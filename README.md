@@ -32,9 +32,5 @@
 
  ## ⭐️ [Demonstration:](https://cciitpatna-my.sharepoint.com/:v:/g/personal/aditya_2011mt02_iitp_ac_in/EZY4qPv8w31Dr7i8rw-YOdwBrcbU7uTkYr8ZT-lqiwwKAw?e=ZybEcj)
       
-      
-
-
-
-
+      ##⭐️ [TinkerCad File:](https://www.tinkercad.com/things/hjGPblFMq4n-ir-based-dc-motor-control)
 ---
